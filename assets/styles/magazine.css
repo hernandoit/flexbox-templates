@@ -1,0 +1,156 @@
+#navbar-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+  height: 120px; 
+  width:100%; 
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+
+#logo {
+  background-color: cornflowerblue; 
+  height: 120px;
+  width: 200px; 
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 100px;
+}
+
+#link-one {
+  background-color: cornflowerblue; 
+  height: 40px;
+  width: 100px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+#link-two {
+  background-color: cornflowerblue; 
+  height: 40px;
+  width: 100px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+#link-three {
+  background-color: cornflowerblue;
+  height: 40px;
+  width: 100px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 0; 
+  flex-grow: 1;
+}
+
+#link-four {
+  background-color: cornflowerblue; 
+  height: 40px;
+  width: 100px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+#link-five {
+  background-color: cornflowerblue; 
+  height: 40px;
+  width: 100px;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+#aside-container {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  flex-direction: row;
+}
+
+#header {
+  background-color: #fadadd; 
+}
+#aside-one {
+  background-color: #acd1af; 
+}
+
+#aside-two {
+  background-color: #acd1af; 
+}
+
+#main {
+  background-color: #ffb347; 
+  height: 300px; 
+  width: 100%; 
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+#card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  height: 180px; 
+  width: 100%;
+  margin-top: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+#card-one {
+  background-color: #ffb347; 
+  margin-right: 20px;
+  flex-grow: 1;
+}
+
+#card-two {
+  background-color: #ffb347; 
+  margin-right: 20px;
+  flex-grow: 1;
+}
+
+#card-three {
+  background-color: #ffb347; 
+  margin-right: 20px;
+  flex-grow: 1;
+
+}
+
+#card-four {
+  background-color: #ffb347; 
+  flex-grow: 1;
+}
+
+#footer {
+  background-color: #D2D2CF; 
+  height: 120px; 
+  width: 100%; 
+  margin-top:20px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.flex-wrapper { 
+  display: flex;
+  flex-wrap: wrap; 
+  background-color: bisque; 
+  flex-direction: row;
+}
