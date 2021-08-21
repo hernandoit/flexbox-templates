@@ -82,6 +82,11 @@
   flex-direction: row;
 }
 
+#aside-one-container {
+  width: 100%;
+
+}
+
 #header {
   background-color: #fadadd; 
 }
